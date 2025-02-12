@@ -1,0 +1,6 @@
+/*Documento css*/
+body{background: linear-gradient(blue, pink);}
+h1,h2,p{color:#ffffff;}
+p{font-size: 20px;}
+h2{text-align:left;}
+h1{font-size: 100px;}
